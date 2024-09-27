@@ -7,8 +7,11 @@ The primary goal is to understand the customer profile during the Diwali sale se
 Key Insights for GitHub Documentation:
 1. Demographic Insights:
 •	Gender Distribution: The majority of buyers are female with higher purchasing power compared to men. This suggests a focus on female-targeted marketing campaigns.
+
 •	Age Group Focus: The most significant number of buyers falls into the 26-35 age group, with females dominating the purchase volume. Marketing strategies should be fine-tuned to target this demographic.
+
 •	Marital Status: Married individuals, especially married women, show the highest purchasing power. This provides opportunities for family-oriented campaigns.
+
 1.	State-Wise Sales Performance:
 •	Top States by Orders: Uttar Pradesh, Maharashtra, and Karnataka contribute the most to the number of orders.
 •	Sales Volume by State: These same states also lead in overall sales volume, with Uttar Pradesh being the top performer. Retailers should prioritize these regions for inventory stocking and tailored marketing strategies.
