@@ -1,7 +1,9 @@
 Diwali Sales Analysis Project
 This project aims to Analyze Diwali sales data to uncover key customer purchasing trends and demographics. By leveraging Python libraries such as Pandas, Matplotlib, and Seaborn, I performed data cleaning, exploration, and visualization to derive actionable insights. The analysis identifies patterns in customer behavior across various segments like gender, age group, state, occupation, and product categories.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objective:
 The primary goal is to understand the customer profile during the Diwali sale season, focusing on who buys what, from where, and how much they spend. These insights can guide marketing strategies, inventory management, and targeted sales efforts.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Key Insights for GitHub Documentation:
 1. Demographic Insights:
 •	Gender Distribution: The majority of buyers are female with higher purchasing power compared to men. This suggests a focus on female-targeted marketing campaigns.
