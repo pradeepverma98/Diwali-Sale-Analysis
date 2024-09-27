@@ -6,6 +6,7 @@ The primary goal is to understand the customer profile during the Diwali sale se
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Key Insights for GitHub Documentation:
 1. Demographic Insights:
+   
 •	Gender Distribution: The majority of buyers are female with higher purchasing power compared to men. This suggests a focus on female-targeted marketing campaigns.
 
 •	Age Group Focus: The most significant number of buyers falls into the 26-35 age group, with females dominating the purchase volume. Marketing strategies should be fine-tuned to target this demographic.
